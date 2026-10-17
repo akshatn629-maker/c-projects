@@ -20,6 +20,15 @@ int main(){
         default:printf("\n\ninvalid operation\n\n");}
             return 0;}
 
+
+
+            char x,y;
+    printf("enter -simple- for add multiplicaton division substraction "
+    );
+    printf("\n\nenter -hard- for squareroot, cuberoot,factorial\n\n" );
+scanf("%c",&x );
+scanf("%c",y);
+    
                
 
 
